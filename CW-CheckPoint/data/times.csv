@@ -1,0 +1,1105 @@
+departure_city,arrival_city,departure_time
+Beijing,Tokyo,06:10
+Beijing,Tokyo,13:40
+Beijing,New Delhi,07:40
+Beijing,New Delhi,10:00
+Beijing,Seoul,11:00
+Beijing,Seoul,21:20
+Beijing,Cairo,21:50
+Beijing,Cairo,22:00
+Beijing,London,12:20
+Beijing,London,18:10
+Beijing,Mexico City,12:50
+Beijing,Mexico City,19:50
+Beijing,Paris,05:10
+Beijing,Paris,12:00
+Beijing,Berlin,06:00
+Beijing,Berlin,06:50
+Beijing,Washington,05:40
+Beijing,Washington,10:40
+Beijing,Buenos Aires,15:20
+Beijing,Buenos Aires,19:20
+Beijing,Rome,05:50
+Beijing,Rome,17:30
+Beijing,Madrid,06:10
+Beijing,Madrid,19:20
+Beijing,Ottawa,05:20
+Beijing,Ottawa,16:50
+Beijing,Vienna,11:30
+Beijing,Vienna,20:30
+Beijing,Prague,13:20
+Beijing,Prague,13:30
+Beijing,Lisbon,05:10
+Beijing,Lisbon,14:20
+Beijing,Canberra,13:10
+Beijing,Canberra,16:40
+Beijing,Brasilia,06:30
+Beijing,Brasilia,11:20
+Beijing,Bangkok,10:40
+Beijing,Bangkok,22:50
+Beijing,Moscow,14:20
+Beijing,Moscow,17:10
+Beijing,Jakarta,06:30
+Beijing,Jakarta,22:10
+Beijing,Bogota,07:30
+Beijing,Bogota,22:40
+Beijing,Athens,13:30
+Beijing,Athens,17:00
+Tokyo,Beijing,09:00
+Tokyo,Beijing,15:50
+Tokyo,New Delhi,05:50
+Tokyo,New Delhi,20:50
+Tokyo,Seoul,12:30
+Tokyo,Seoul,17:40
+Tokyo,Cairo,08:30
+Tokyo,Cairo,09:00
+Tokyo,London,06:10
+Tokyo,London,16:10
+Tokyo,Mexico City,07:50
+Tokyo,Mexico City,08:10
+Tokyo,Paris,13:00
+Tokyo,Paris,16:30
+Tokyo,Berlin,13:00
+Tokyo,Berlin,21:30
+Tokyo,Washington,11:10
+Tokyo,Washington,14:20
+Tokyo,Buenos Aires,09:30
+Tokyo,Buenos Aires,10:50
+Tokyo,Rome,06:00
+Tokyo,Rome,15:10
+Tokyo,Madrid,06:20
+Tokyo,Madrid,10:20
+Tokyo,Ottawa,15:50
+Tokyo,Ottawa,19:30
+Tokyo,Vienna,13:20
+Tokyo,Vienna,18:40
+Tokyo,Prague,05:40
+Tokyo,Prague,11:20
+Tokyo,Lisbon,05:20
+Tokyo,Lisbon,07:40
+Tokyo,Canberra,13:10
+Tokyo,Canberra,22:00
+Tokyo,Brasilia,07:30
+Tokyo,Brasilia,11:50
+Tokyo,Bangkok,15:20
+Tokyo,Bangkok,19:00
+Tokyo,Moscow,11:40
+Tokyo,Moscow,15:00
+Tokyo,Jakarta,09:00
+Tokyo,Jakarta,12:50
+Tokyo,Bogota,13:10
+Tokyo,Bogota,16:10
+Tokyo,Athens,12:30
+Tokyo,Athens,22:40
+New Delhi,Beijing,08:00
+New Delhi,Beijing,14:40
+New Delhi,Tokyo,16:50
+New Delhi,Tokyo,20:20
+New Delhi,Seoul,12:50
+New Delhi,Seoul,17:40
+New Delhi,Cairo,05:50
+New Delhi,Cairo,10:20
+New Delhi,London,14:00
+New Delhi,London,21:10
+New Delhi,Mexico City,07:20
+New Delhi,Mexico City,12:40
+New Delhi,Paris,08:50
+New Delhi,Paris,19:30
+New Delhi,Berlin,21:30
+New Delhi,Berlin,22:50
+New Delhi,Washington,12:40
+New Delhi,Washington,20:40
+New Delhi,Buenos Aires,09:30
+New Delhi,Buenos Aires,11:10
+New Delhi,Rome,07:30
+New Delhi,Rome,17:00
+New Delhi,Madrid,07:40
+New Delhi,Madrid,15:10
+New Delhi,Ottawa,06:20
+New Delhi,Ottawa,17:50
+New Delhi,Vienna,07:30
+New Delhi,Vienna,14:30
+New Delhi,Prague,11:00
+New Delhi,Prague,17:30
+New Delhi,Lisbon,13:00
+New Delhi,Lisbon,16:30
+New Delhi,Canberra,10:40
+New Delhi,Canberra,19:50
+New Delhi,Brasilia,08:00
+New Delhi,Brasilia,11:20
+New Delhi,Bangkok,08:50
+New Delhi,Bangkok,17:00
+New Delhi,Moscow,12:30
+New Delhi,Moscow,17:40
+New Delhi,Jakarta,10:00
+New Delhi,Jakarta,16:10
+New Delhi,Bogota,19:20
+New Delhi,Bogota,20:10
+New Delhi,Athens,14:40
+New Delhi,Athens,17:00
+Seoul,Beijing,05:40
+Seoul,Beijing,20:40
+Seoul,Tokyo,07:00
+Seoul,Tokyo,12:00
+Seoul,New Delhi,05:20
+Seoul,New Delhi,06:30
+Seoul,Cairo,18:00
+Seoul,Cairo,22:20
+Seoul,London,06:30
+Seoul,London,08:40
+Seoul,Mexico City,05:40
+Seoul,Mexico City,08:00
+Seoul,Paris,13:00
+Seoul,Paris,20:20
+Seoul,Berlin,06:50
+Seoul,Berlin,13:30
+Seoul,Washington,17:20
+Seoul,Washington,19:10
+Seoul,Buenos Aires,13:20
+Seoul,Buenos Aires,19:00
+Seoul,Rome,14:40
+Seoul,Rome,15:40
+Seoul,Madrid,13:20
+Seoul,Madrid,20:50
+Seoul,Ottawa,12:40
+Seoul,Ottawa,15:10
+Seoul,Vienna,17:50
+Seoul,Vienna,18:00
+Seoul,Prague,08:10
+Seoul,Prague,14:20
+Seoul,Lisbon,18:20
+Seoul,Lisbon,21:20
+Seoul,Canberra,11:50
+Seoul,Canberra,20:20
+Seoul,Brasilia,13:40
+Seoul,Brasilia,18:50
+Seoul,Bangkok,11:20
+Seoul,Bangkok,16:40
+Seoul,Moscow,07:30
+Seoul,Moscow,11:00
+Seoul,Jakarta,06:30
+Seoul,Jakarta,14:50
+Seoul,Bogota,14:40
+Seoul,Bogota,20:30
+Seoul,Athens,06:20
+Seoul,Athens,21:30
+Cairo,Beijing,14:50
+Cairo,Beijing,16:10
+Cairo,Tokyo,18:30
+Cairo,Tokyo,20:40
+Cairo,New Delhi,08:10
+Cairo,New Delhi,20:10
+Cairo,Seoul,07:50
+Cairo,Seoul,12:40
+Cairo,London,11:20
+Cairo,London,22:10
+Cairo,Mexico City,11:30
+Cairo,Mexico City,17:10
+Cairo,Paris,05:50
+Cairo,Paris,06:40
+Cairo,Berlin,05:00
+Cairo,Berlin,11:00
+Cairo,Washington,08:10
+Cairo,Washington,10:40
+Cairo,Buenos Aires,14:10
+Cairo,Buenos Aires,20:50
+Cairo,Rome,09:50
+Cairo,Rome,12:00
+Cairo,Madrid,07:20
+Cairo,Madrid,11:20
+Cairo,Ottawa,13:30
+Cairo,Ottawa,15:30
+Cairo,Vienna,07:00
+Cairo,Vienna,09:30
+Cairo,Prague,13:30
+Cairo,Prague,14:00
+Cairo,Lisbon,13:30
+Cairo,Lisbon,14:50
+Cairo,Canberra,09:10
+Cairo,Canberra,17:10
+Cairo,Brasilia,05:50
+Cairo,Brasilia,07:50
+Cairo,Bangkok,05:20
+Cairo,Bangkok,20:00
+Cairo,Moscow,06:50
+Cairo,Moscow,17:00
+Cairo,Jakarta,09:00
+Cairo,Jakarta,17:50
+Cairo,Bogota,12:10
+Cairo,Bogota,18:00
+Cairo,Athens,14:00
+Cairo,Athens,22:40
+London,Beijing,10:40
+London,Beijing,18:00
+London,Tokyo,19:50
+London,Tokyo,21:10
+London,New Delhi,17:50
+London,New Delhi,19:00
+London,Seoul,16:40
+London,Seoul,21:50
+London,Cairo,15:00
+London,Cairo,15:50
+London,Mexico City,16:20
+London,Mexico City,19:00
+London,Paris,07:00
+London,Paris,19:20
+London,Berlin,05:30
+London,Berlin,20:00
+London,Washington,16:30
+London,Washington,16:50
+London,Buenos Aires,13:20
+London,Buenos Aires,16:50
+London,Rome,09:50
+London,Rome,13:30
+London,Madrid,10:20
+London,Madrid,11:00
+London,Ottawa,05:00
+London,Ottawa,06:20
+London,Vienna,05:30
+London,Vienna,22:30
+London,Prague,06:00
+London,Prague,18:20
+London,Lisbon,08:00
+London,Lisbon,17:20
+London,Canberra,16:10
+London,Canberra,17:40
+London,Brasilia,06:50
+London,Brasilia,13:10
+London,Bangkok,10:50
+London,Bangkok,22:10
+London,Moscow,05:30
+London,Moscow,09:10
+London,Jakarta,06:10
+London,Jakarta,07:20
+London,Bogota,05:10
+London,Bogota,09:40
+London,Athens,08:40
+London,Athens,11:00
+Mexico City,Beijing,07:10
+Mexico City,Beijing,08:30
+Mexico City,Tokyo,05:10
+Mexico City,Tokyo,18:50
+Mexico City,New Delhi,08:40
+Mexico City,New Delhi,13:40
+Mexico City,Seoul,08:50
+Mexico City,Seoul,22:10
+Mexico City,Cairo,09:20
+Mexico City,Cairo,18:40
+Mexico City,London,09:40
+Mexico City,London,17:50
+Mexico City,Paris,09:00
+Mexico City,Paris,21:50
+Mexico City,Berlin,17:50
+Mexico City,Berlin,21:50
+Mexico City,Washington,11:50
+Mexico City,Washington,21:50
+Mexico City,Buenos Aires,15:20
+Mexico City,Buenos Aires,16:00
+Mexico City,Rome,10:50
+Mexico City,Rome,15:20
+Mexico City,Madrid,06:30
+Mexico City,Madrid,06:50
+Mexico City,Ottawa,16:50
+Mexico City,Ottawa,19:20
+Mexico City,Vienna,12:10
+Mexico City,Vienna,16:50
+Mexico City,Prague,05:00
+Mexico City,Prague,07:20
+Mexico City,Lisbon,08:10
+Mexico City,Lisbon,11:10
+Mexico City,Canberra,07:30
+Mexico City,Canberra,15:00
+Mexico City,Brasilia,05:20
+Mexico City,Brasilia,07:30
+Mexico City,Bangkok,08:20
+Mexico City,Bangkok,13:00
+Mexico City,Moscow,13:00
+Mexico City,Moscow,18:30
+Mexico City,Jakarta,06:40
+Mexico City,Jakarta,20:50
+Mexico City,Bogota,12:00
+Mexico City,Bogota,16:40
+Mexico City,Athens,10:10
+Mexico City,Athens,19:30
+Paris,Beijing,17:00
+Paris,Beijing,20:30
+Paris,Tokyo,05:50
+Paris,Tokyo,09:00
+Paris,New Delhi,09:50
+Paris,New Delhi,14:10
+Paris,Seoul,07:20
+Paris,Seoul,08:40
+Paris,Cairo,06:10
+Paris,Cairo,18:40
+Paris,London,18:30
+Paris,London,22:50
+Paris,Mexico City,05:40
+Paris,Mexico City,19:30
+Paris,Berlin,07:10
+Paris,Berlin,15:40
+Paris,Washington,11:00
+Paris,Washington,11:50
+Paris,Buenos Aires,07:40
+Paris,Buenos Aires,17:10
+Paris,Rome,12:30
+Paris,Rome,13:20
+Paris,Madrid,07:40
+Paris,Madrid,19:50
+Paris,Ottawa,10:20
+Paris,Ottawa,21:30
+Paris,Vienna,10:50
+Paris,Vienna,11:00
+Paris,Prague,12:30
+Paris,Prague,21:20
+Paris,Lisbon,16:30
+Paris,Lisbon,17:00
+Paris,Canberra,17:10
+Paris,Canberra,19:10
+Paris,Brasilia,13:10
+Paris,Brasilia,22:20
+Paris,Bangkok,17:40
+Paris,Bangkok,21:00
+Paris,Moscow,07:00
+Paris,Moscow,15:20
+Paris,Jakarta,10:10
+Paris,Jakarta,20:00
+Paris,Bogota,11:30
+Paris,Bogota,21:50
+Paris,Athens,15:30
+Paris,Athens,19:10
+Berlin,Beijing,08:50
+Berlin,Beijing,12:20
+Berlin,Tokyo,09:10
+Berlin,Tokyo,20:00
+Berlin,New Delhi,12:30
+Berlin,New Delhi,20:10
+Berlin,Seoul,08:40
+Berlin,Seoul,18:50
+Berlin,Cairo,06:40
+Berlin,Cairo,14:10
+Berlin,London,17:00
+Berlin,London,21:40
+Berlin,Mexico City,09:00
+Berlin,Mexico City,20:50
+Berlin,Paris,07:10
+Berlin,Paris,19:00
+Berlin,Washington,18:50
+Berlin,Washington,21:20
+Berlin,Buenos Aires,17:20
+Berlin,Buenos Aires,22:30
+Berlin,Rome,16:10
+Berlin,Rome,18:10
+Berlin,Madrid,16:40
+Berlin,Madrid,19:50
+Berlin,Ottawa,13:40
+Berlin,Ottawa,14:20
+Berlin,Vienna,17:00
+Berlin,Vienna,18:30
+Berlin,Prague,12:00
+Berlin,Prague,18:10
+Berlin,Lisbon,08:20
+Berlin,Lisbon,11:10
+Berlin,Canberra,06:50
+Berlin,Canberra,12:30
+Berlin,Brasilia,08:50
+Berlin,Brasilia,20:30
+Berlin,Bangkok,05:50
+Berlin,Bangkok,06:10
+Berlin,Moscow,09:50
+Berlin,Moscow,18:00
+Berlin,Jakarta,20:00
+Berlin,Jakarta,21:00
+Berlin,Bogota,14:20
+Berlin,Bogota,21:20
+Berlin,Athens,13:40
+Berlin,Athens,16:30
+Washington,Beijing,09:50
+Washington,Beijing,12:30
+Washington,Tokyo,11:30
+Washington,Tokyo,17:00
+Washington,New Delhi,17:20
+Washington,New Delhi,17:30
+Washington,Seoul,09:10
+Washington,Seoul,22:00
+Washington,Cairo,13:00
+Washington,Cairo,13:50
+Washington,London,17:10
+Washington,London,18:30
+Washington,Mexico City,06:10
+Washington,Mexico City,11:40
+Washington,Paris,05:30
+Washington,Paris,22:50
+Washington,Berlin,16:30
+Washington,Berlin,19:40
+Washington,Buenos Aires,06:10
+Washington,Buenos Aires,19:40
+Washington,Rome,08:00
+Washington,Rome,12:00
+Washington,Madrid,07:00
+Washington,Madrid,12:40
+Washington,Ottawa,16:30
+Washington,Ottawa,19:30
+Washington,Vienna,13:40
+Washington,Vienna,17:20
+Washington,Prague,18:40
+Washington,Prague,20:00
+Washington,Lisbon,10:30
+Washington,Lisbon,19:50
+Washington,Canberra,07:50
+Washington,Canberra,12:00
+Washington,Brasilia,11:30
+Washington,Brasilia,20:30
+Washington,Bangkok,10:20
+Washington,Bangkok,11:50
+Washington,Moscow,13:30
+Washington,Moscow,19:50
+Washington,Jakarta,14:10
+Washington,Jakarta,22:30
+Washington,Bogota,17:00
+Washington,Bogota,17:20
+Washington,Athens,10:00
+Washington,Athens,21:50
+Buenos Aires,Beijing,08:30
+Buenos Aires,Beijing,20:00
+Buenos Aires,Tokyo,10:00
+Buenos Aires,Tokyo,14:10
+Buenos Aires,New Delhi,14:00
+Buenos Aires,New Delhi,21:00
+Buenos Aires,Seoul,16:50
+Buenos Aires,Seoul,22:00
+Buenos Aires,Cairo,10:20
+Buenos Aires,Cairo,20:50
+Buenos Aires,London,08:40
+Buenos Aires,London,09:30
+Buenos Aires,Mexico City,09:30
+Buenos Aires,Mexico City,15:50
+Buenos Aires,Paris,11:10
+Buenos Aires,Paris,12:30
+Buenos Aires,Berlin,07:10
+Buenos Aires,Berlin,09:20
+Buenos Aires,Washington,16:20
+Buenos Aires,Washington,22:20
+Buenos Aires,Rome,06:10
+Buenos Aires,Rome,20:50
+Buenos Aires,Madrid,05:30
+Buenos Aires,Madrid,09:30
+Buenos Aires,Ottawa,06:40
+Buenos Aires,Ottawa,18:50
+Buenos Aires,Vienna,10:40
+Buenos Aires,Vienna,14:40
+Buenos Aires,Prague,06:10
+Buenos Aires,Prague,13:40
+Buenos Aires,Lisbon,13:30
+Buenos Aires,Lisbon,17:20
+Buenos Aires,Canberra,07:20
+Buenos Aires,Canberra,09:20
+Buenos Aires,Brasilia,11:40
+Buenos Aires,Brasilia,19:20
+Buenos Aires,Bangkok,08:40
+Buenos Aires,Bangkok,22:20
+Buenos Aires,Moscow,05:10
+Buenos Aires,Moscow,13:20
+Buenos Aires,Jakarta,12:20
+Buenos Aires,Jakarta,19:20
+Buenos Aires,Bogota,19:10
+Buenos Aires,Bogota,21:20
+Buenos Aires,Athens,12:10
+Buenos Aires,Athens,19:30
+Rome,Beijing,15:00
+Rome,Beijing,18:50
+Rome,Tokyo,09:30
+Rome,Tokyo,13:00
+Rome,New Delhi,11:50
+Rome,New Delhi,13:40
+Rome,Seoul,13:10
+Rome,Seoul,14:20
+Rome,Cairo,05:00
+Rome,Cairo,07:50
+Rome,London,07:20
+Rome,London,21:50
+Rome,Mexico City,05:10
+Rome,Mexico City,17:40
+Rome,Paris,11:30
+Rome,Paris,12:00
+Rome,Berlin,10:50
+Rome,Berlin,13:50
+Rome,Washington,10:10
+Rome,Washington,11:00
+Rome,Buenos Aires,11:20
+Rome,Buenos Aires,12:30
+Rome,Madrid,07:30
+Rome,Madrid,14:20
+Rome,Ottawa,08:20
+Rome,Ottawa,19:10
+Rome,Vienna,15:00
+Rome,Vienna,19:30
+Rome,Prague,18:40
+Rome,Prague,19:40
+Rome,Lisbon,05:00
+Rome,Lisbon,20:30
+Rome,Canberra,07:50
+Rome,Canberra,20:50
+Rome,Brasilia,05:50
+Rome,Brasilia,12:20
+Rome,Bangkok,08:10
+Rome,Bangkok,08:40
+Rome,Moscow,11:30
+Rome,Moscow,12:20
+Rome,Jakarta,10:40
+Rome,Jakarta,12:50
+Rome,Bogota,13:40
+Rome,Bogota,22:50
+Rome,Athens,08:10
+Rome,Athens,21:40
+Madrid,Beijing,06:40
+Madrid,Beijing,20:40
+Madrid,Tokyo,06:20
+Madrid,Tokyo,14:20
+Madrid,New Delhi,08:10
+Madrid,New Delhi,20:30
+Madrid,Seoul,09:10
+Madrid,Seoul,16:30
+Madrid,Cairo,05:30
+Madrid,Cairo,10:00
+Madrid,London,12:20
+Madrid,London,16:00
+Madrid,Mexico City,19:20
+Madrid,Mexico City,20:50
+Madrid,Paris,19:40
+Madrid,Paris,22:00
+Madrid,Berlin,09:20
+Madrid,Berlin,21:40
+Madrid,Washington,06:00
+Madrid,Washington,12:00
+Madrid,Buenos Aires,05:00
+Madrid,Buenos Aires,10:10
+Madrid,Rome,14:50
+Madrid,Rome,20:00
+Madrid,Ottawa,11:20
+Madrid,Ottawa,13:50
+Madrid,Vienna,14:00
+Madrid,Vienna,15:50
+Madrid,Prague,14:10
+Madrid,Prague,15:10
+Madrid,Lisbon,08:20
+Madrid,Lisbon,16:20
+Madrid,Canberra,09:10
+Madrid,Canberra,22:00
+Madrid,Brasilia,13:10
+Madrid,Brasilia,20:20
+Madrid,Bangkok,16:00
+Madrid,Bangkok,16:10
+Madrid,Moscow,13:30
+Madrid,Moscow,17:00
+Madrid,Jakarta,05:40
+Madrid,Jakarta,18:50
+Madrid,Bogota,11:50
+Madrid,Bogota,18:50
+Madrid,Athens,13:10
+Madrid,Athens,15:10
+Ottawa,Beijing,07:40
+Ottawa,Beijing,10:00
+Ottawa,Tokyo,06:00
+Ottawa,Tokyo,08:50
+Ottawa,New Delhi,08:20
+Ottawa,New Delhi,09:40
+Ottawa,Seoul,18:20
+Ottawa,Seoul,20:00
+Ottawa,Cairo,16:20
+Ottawa,Cairo,22:30
+Ottawa,London,20:30
+Ottawa,London,22:30
+Ottawa,Mexico City,09:50
+Ottawa,Mexico City,19:40
+Ottawa,Paris,15:00
+Ottawa,Paris,19:00
+Ottawa,Berlin,12:30
+Ottawa,Berlin,15:50
+Ottawa,Washington,14:00
+Ottawa,Washington,14:20
+Ottawa,Buenos Aires,14:30
+Ottawa,Buenos Aires,19:40
+Ottawa,Rome,07:10
+Ottawa,Rome,13:30
+Ottawa,Madrid,19:20
+Ottawa,Madrid,21:50
+Ottawa,Vienna,09:10
+Ottawa,Vienna,15:30
+Ottawa,Prague,07:30
+Ottawa,Prague,11:50
+Ottawa,Lisbon,12:00
+Ottawa,Lisbon,19:40
+Ottawa,Canberra,18:50
+Ottawa,Canberra,20:40
+Ottawa,Brasilia,11:50
+Ottawa,Brasilia,12:10
+Ottawa,Bangkok,05:20
+Ottawa,Bangkok,21:50
+Ottawa,Moscow,10:40
+Ottawa,Moscow,19:30
+Ottawa,Jakarta,11:40
+Ottawa,Jakarta,21:20
+Ottawa,Bogota,07:20
+Ottawa,Bogota,13:00
+Ottawa,Athens,05:30
+Ottawa,Athens,13:10
+Vienna,Beijing,17:00
+Vienna,Beijing,20:00
+Vienna,Tokyo,09:20
+Vienna,Tokyo,10:30
+Vienna,New Delhi,11:10
+Vienna,New Delhi,17:50
+Vienna,Seoul,06:10
+Vienna,Seoul,16:00
+Vienna,Cairo,22:10
+Vienna,Cairo,22:50
+Vienna,London,09:10
+Vienna,London,11:50
+Vienna,Mexico City,12:30
+Vienna,Mexico City,22:20
+Vienna,Paris,08:20
+Vienna,Paris,22:30
+Vienna,Berlin,10:30
+Vienna,Berlin,19:50
+Vienna,Washington,05:20
+Vienna,Washington,14:00
+Vienna,Buenos Aires,19:40
+Vienna,Buenos Aires,21:00
+Vienna,Rome,11:30
+Vienna,Rome,22:00
+Vienna,Madrid,18:00
+Vienna,Madrid,20:00
+Vienna,Ottawa,08:20
+Vienna,Ottawa,08:40
+Vienna,Prague,07:00
+Vienna,Prague,09:50
+Vienna,Lisbon,12:10
+Vienna,Lisbon,18:30
+Vienna,Canberra,07:10
+Vienna,Canberra,21:30
+Vienna,Brasilia,10:00
+Vienna,Brasilia,15:20
+Vienna,Bangkok,07:20
+Vienna,Bangkok,18:30
+Vienna,Moscow,06:10
+Vienna,Moscow,17:30
+Vienna,Jakarta,15:10
+Vienna,Jakarta,16:20
+Vienna,Bogota,05:10
+Vienna,Bogota,19:20
+Vienna,Athens,06:10
+Vienna,Athens,17:00
+Prague,Beijing,06:40
+Prague,Beijing,10:30
+Prague,Tokyo,10:00
+Prague,Tokyo,22:00
+Prague,New Delhi,11:20
+Prague,New Delhi,16:20
+Prague,Seoul,08:30
+Prague,Seoul,15:40
+Prague,Cairo,09:00
+Prague,Cairo,10:30
+Prague,London,05:00
+Prague,London,18:40
+Prague,Mexico City,06:20
+Prague,Mexico City,17:50
+Prague,Paris,11:30
+Prague,Paris,15:50
+Prague,Berlin,11:30
+Prague,Berlin,17:40
+Prague,Washington,11:50
+Prague,Washington,16:10
+Prague,Buenos Aires,19:10
+Prague,Buenos Aires,19:40
+Prague,Rome,06:40
+Prague,Rome,22:50
+Prague,Madrid,07:30
+Prague,Madrid,14:40
+Prague,Ottawa,05:20
+Prague,Ottawa,10:50
+Prague,Vienna,17:30
+Prague,Vienna,21:30
+Prague,Lisbon,13:30
+Prague,Lisbon,13:50
+Prague,Canberra,10:00
+Prague,Canberra,15:20
+Prague,Brasilia,10:40
+Prague,Brasilia,11:30
+Prague,Bangkok,14:40
+Prague,Bangkok,17:00
+Prague,Moscow,11:30
+Prague,Moscow,19:30
+Prague,Jakarta,05:20
+Prague,Jakarta,13:50
+Prague,Bogota,05:50
+Prague,Bogota,19:20
+Prague,Athens,13:30
+Prague,Athens,22:20
+Lisbon,Beijing,05:50
+Lisbon,Beijing,10:40
+Lisbon,Tokyo,07:10
+Lisbon,Tokyo,09:50
+Lisbon,New Delhi,06:30
+Lisbon,New Delhi,21:00
+Lisbon,Seoul,09:10
+Lisbon,Seoul,22:10
+Lisbon,Cairo,05:10
+Lisbon,Cairo,06:50
+Lisbon,London,10:10
+Lisbon,London,18:30
+Lisbon,Mexico City,12:50
+Lisbon,Mexico City,20:30
+Lisbon,Paris,05:10
+Lisbon,Paris,19:40
+Lisbon,Berlin,05:00
+Lisbon,Berlin,21:10
+Lisbon,Washington,11:40
+Lisbon,Washington,14:10
+Lisbon,Buenos Aires,07:40
+Lisbon,Buenos Aires,10:30
+Lisbon,Rome,12:50
+Lisbon,Rome,15:30
+Lisbon,Madrid,06:20
+Lisbon,Madrid,08:10
+Lisbon,Ottawa,07:40
+Lisbon,Ottawa,09:10
+Lisbon,Vienna,05:20
+Lisbon,Vienna,14:10
+Lisbon,Prague,08:00
+Lisbon,Prague,10:20
+Lisbon,Canberra,08:30
+Lisbon,Canberra,15:50
+Lisbon,Brasilia,18:20
+Lisbon,Brasilia,22:50
+Lisbon,Bangkok,06:00
+Lisbon,Bangkok,08:50
+Lisbon,Moscow,09:30
+Lisbon,Moscow,10:30
+Lisbon,Jakarta,20:50
+Lisbon,Jakarta,22:20
+Lisbon,Bogota,10:50
+Lisbon,Bogota,16:00
+Lisbon,Athens,16:50
+Lisbon,Athens,17:40
+Canberra,Beijing,07:50
+Canberra,Beijing,08:00
+Canberra,Tokyo,09:50
+Canberra,Tokyo,15:10
+Canberra,New Delhi,13:10
+Canberra,New Delhi,14:50
+Canberra,Seoul,15:10
+Canberra,Seoul,20:10
+Canberra,Cairo,09:00
+Canberra,Cairo,12:50
+Canberra,London,18:30
+Canberra,London,22:40
+Canberra,Mexico City,13:30
+Canberra,Mexico City,21:40
+Canberra,Paris,11:40
+Canberra,Paris,14:00
+Canberra,Berlin,09:00
+Canberra,Berlin,17:00
+Canberra,Washington,07:20
+Canberra,Washington,22:30
+Canberra,Buenos Aires,22:10
+Canberra,Buenos Aires,22:40
+Canberra,Rome,13:10
+Canberra,Rome,15:40
+Canberra,Madrid,08:50
+Canberra,Madrid,20:30
+Canberra,Ottawa,08:10
+Canberra,Ottawa,13:20
+Canberra,Vienna,07:10
+Canberra,Vienna,17:10
+Canberra,Prague,05:30
+Canberra,Prague,13:20
+Canberra,Lisbon,08:20
+Canberra,Lisbon,12:20
+Canberra,Brasilia,11:20
+Canberra,Brasilia,19:30
+Canberra,Bangkok,09:20
+Canberra,Bangkok,22:20
+Canberra,Moscow,05:30
+Canberra,Moscow,08:50
+Canberra,Jakarta,10:50
+Canberra,Jakarta,18:40
+Canberra,Bogota,12:40
+Canberra,Bogota,16:00
+Canberra,Athens,05:20
+Canberra,Athens,18:40
+Brasilia,Beijing,10:00
+Brasilia,Beijing,18:40
+Brasilia,Tokyo,13:10
+Brasilia,Tokyo,16:00
+Brasilia,New Delhi,05:20
+Brasilia,New Delhi,08:50
+Brasilia,Seoul,13:40
+Brasilia,Seoul,18:40
+Brasilia,Cairo,05:00
+Brasilia,Cairo,20:40
+Brasilia,London,06:00
+Brasilia,London,17:20
+Brasilia,Mexico City,05:30
+Brasilia,Mexico City,13:40
+Brasilia,Paris,05:20
+Brasilia,Paris,12:40
+Brasilia,Berlin,11:40
+Brasilia,Berlin,12:20
+Brasilia,Washington,09:00
+Brasilia,Washington,10:30
+Brasilia,Buenos Aires,12:50
+Brasilia,Buenos Aires,20:40
+Brasilia,Rome,10:20
+Brasilia,Rome,11:40
+Brasilia,Madrid,14:30
+Brasilia,Madrid,16:20
+Brasilia,Ottawa,06:00
+Brasilia,Ottawa,10:50
+Brasilia,Vienna,08:10
+Brasilia,Vienna,21:00
+Brasilia,Prague,09:40
+Brasilia,Prague,10:50
+Brasilia,Lisbon,07:50
+Brasilia,Lisbon,18:20
+Brasilia,Canberra,06:30
+Brasilia,Canberra,16:00
+Brasilia,Bangkok,06:40
+Brasilia,Bangkok,22:30
+Brasilia,Moscow,05:20
+Brasilia,Moscow,13:00
+Brasilia,Jakarta,19:50
+Brasilia,Jakarta,20:20
+Brasilia,Bogota,05:30
+Brasilia,Bogota,17:20
+Brasilia,Athens,15:20
+Brasilia,Athens,16:50
+Bangkok,Beijing,13:50
+Bangkok,Beijing,19:10
+Bangkok,Tokyo,12:00
+Bangkok,Tokyo,17:30
+Bangkok,New Delhi,09:40
+Bangkok,New Delhi,21:10
+Bangkok,Seoul,10:10
+Bangkok,Seoul,14:20
+Bangkok,Cairo,08:20
+Bangkok,Cairo,11:30
+Bangkok,London,10:00
+Bangkok,London,10:10
+Bangkok,Mexico City,10:10
+Bangkok,Mexico City,10:50
+Bangkok,Paris,08:30
+Bangkok,Paris,20:10
+Bangkok,Berlin,09:10
+Bangkok,Berlin,16:30
+Bangkok,Washington,09:00
+Bangkok,Washington,15:10
+Bangkok,Buenos Aires,06:10
+Bangkok,Buenos Aires,13:30
+Bangkok,Rome,13:10
+Bangkok,Rome,19:10
+Bangkok,Madrid,15:20
+Bangkok,Madrid,18:50
+Bangkok,Ottawa,18:10
+Bangkok,Ottawa,22:50
+Bangkok,Vienna,07:50
+Bangkok,Vienna,13:30
+Bangkok,Prague,19:50
+Bangkok,Prague,21:30
+Bangkok,Lisbon,12:00
+Bangkok,Lisbon,18:40
+Bangkok,Canberra,18:50
+Bangkok,Canberra,20:40
+Bangkok,Brasilia,08:30
+Bangkok,Brasilia,14:30
+Bangkok,Moscow,13:50
+Bangkok,Moscow,17:50
+Bangkok,Jakarta,05:50
+Bangkok,Jakarta,13:30
+Bangkok,Bogota,05:00
+Bangkok,Bogota,18:10
+Bangkok,Athens,05:00
+Bangkok,Athens,21:00
+Moscow,Beijing,18:20
+Moscow,Beijing,19:20
+Moscow,Tokyo,09:50
+Moscow,Tokyo,18:20
+Moscow,New Delhi,08:20
+Moscow,New Delhi,17:50
+Moscow,Seoul,18:40
+Moscow,Seoul,19:00
+Moscow,Cairo,09:00
+Moscow,Cairo,16:50
+Moscow,London,18:10
+Moscow,London,21:40
+Moscow,Mexico City,17:30
+Moscow,Mexico City,18:40
+Moscow,Paris,07:50
+Moscow,Paris,09:40
+Moscow,Berlin,09:00
+Moscow,Berlin,14:40
+Moscow,Washington,06:30
+Moscow,Washington,07:40
+Moscow,Buenos Aires,07:00
+Moscow,Buenos Aires,09:40
+Moscow,Rome,13:10
+Moscow,Rome,21:10
+Moscow,Madrid,11:10
+Moscow,Madrid,19:40
+Moscow,Ottawa,06:10
+Moscow,Ottawa,11:20
+Moscow,Vienna,10:20
+Moscow,Vienna,14:30
+Moscow,Prague,07:50
+Moscow,Prague,11:30
+Moscow,Lisbon,10:10
+Moscow,Lisbon,21:00
+Moscow,Canberra,10:20
+Moscow,Canberra,21:20
+Moscow,Brasilia,08:30
+Moscow,Brasilia,21:00
+Moscow,Bangkok,07:50
+Moscow,Bangkok,21:20
+Moscow,Jakarta,09:20
+Moscow,Jakarta,21:20
+Moscow,Bogota,09:20
+Moscow,Bogota,21:10
+Moscow,Athens,08:10
+Moscow,Athens,08:30
+Jakarta,Beijing,10:30
+Jakarta,Beijing,12:50
+Jakarta,Tokyo,09:30
+Jakarta,Tokyo,19:30
+Jakarta,New Delhi,13:40
+Jakarta,New Delhi,21:20
+Jakarta,Seoul,07:20
+Jakarta,Seoul,14:30
+Jakarta,Cairo,19:10
+Jakarta,Cairo,19:30
+Jakarta,London,05:50
+Jakarta,London,08:20
+Jakarta,Mexico City,20:00
+Jakarta,Mexico City,20:20
+Jakarta,Paris,17:10
+Jakarta,Paris,21:00
+Jakarta,Berlin,08:20
+Jakarta,Berlin,19:10
+Jakarta,Washington,07:50
+Jakarta,Washington,13:40
+Jakarta,Buenos Aires,08:50
+Jakarta,Buenos Aires,19:20
+Jakarta,Rome,09:30
+Jakarta,Rome,12:20
+Jakarta,Madrid,10:40
+Jakarta,Madrid,17:10
+Jakarta,Ottawa,07:20
+Jakarta,Ottawa,15:30
+Jakarta,Vienna,14:40
+Jakarta,Vienna,19:10
+Jakarta,Prague,09:00
+Jakarta,Prague,12:40
+Jakarta,Lisbon,06:40
+Jakarta,Lisbon,08:20
+Jakarta,Canberra,07:50
+Jakarta,Canberra,14:10
+Jakarta,Brasilia,11:20
+Jakarta,Brasilia,18:20
+Jakarta,Bangkok,19:30
+Jakarta,Bangkok,21:20
+Jakarta,Moscow,12:10
+Jakarta,Moscow,20:00
+Jakarta,Bogota,17:10
+Jakarta,Bogota,19:00
+Jakarta,Athens,17:40
+Jakarta,Athens,22:10
+Bogota,Beijing,10:20
+Bogota,Beijing,15:00
+Bogota,Tokyo,07:00
+Bogota,Tokyo,19:20
+Bogota,New Delhi,05:30
+Bogota,New Delhi,13:20
+Bogota,Seoul,06:50
+Bogota,Seoul,20:30
+Bogota,Cairo,19:50
+Bogota,Cairo,20:10
+Bogota,London,11:10
+Bogota,London,22:10
+Bogota,Mexico City,11:30
+Bogota,Mexico City,12:30
+Bogota,Paris,07:10
+Bogota,Paris,09:00
+Bogota,Berlin,18:40
+Bogota,Berlin,20:00
+Bogota,Washington,08:30
+Bogota,Washington,10:10
+Bogota,Buenos Aires,05:00
+Bogota,Buenos Aires,09:40
+Bogota,Rome,11:30
+Bogota,Rome,19:30
+Bogota,Madrid,20:00
+Bogota,Madrid,21:50
+Bogota,Ottawa,10:50
+Bogota,Ottawa,14:00
+Bogota,Vienna,15:50
+Bogota,Vienna,22:40
+Bogota,Prague,16:10
+Bogota,Prague,18:10
+Bogota,Lisbon,07:20
+Bogota,Lisbon,13:40
+Bogota,Canberra,09:40
+Bogota,Canberra,15:40
+Bogota,Brasilia,18:20
+Bogota,Brasilia,18:50
+Bogota,Bangkok,05:50
+Bogota,Bangkok,10:20
+Bogota,Moscow,12:50
+Bogota,Moscow,13:30
+Bogota,Jakarta,06:50
+Bogota,Jakarta,11:00
+Bogota,Athens,11:00
+Bogota,Athens,14:40
+Athens,Beijing,11:20
+Athens,Beijing,20:30
+Athens,Tokyo,14:30
+Athens,Tokyo,15:10
+Athens,New Delhi,09:40
+Athens,New Delhi,16:10
+Athens,Seoul,06:50
+Athens,Seoul,15:10
+Athens,Cairo,07:10
+Athens,Cairo,21:50
+Athens,London,11:30
+Athens,London,12:50
+Athens,Mexico City,13:20
+Athens,Mexico City,21:40
+Athens,Paris,07:20
+Athens,Paris,20:50
+Athens,Berlin,10:10
+Athens,Berlin,12:50
+Athens,Washington,05:10
+Athens,Washington,17:30
+Athens,Buenos Aires,05:40
+Athens,Buenos Aires,17:30
+Athens,Rome,06:10
+Athens,Rome,08:40
+Athens,Madrid,11:00
+Athens,Madrid,17:30
+Athens,Ottawa,06:10
+Athens,Ottawa,06:40
+Athens,Vienna,09:20
+Athens,Vienna,19:20
+Athens,Prague,14:40
+Athens,Prague,15:30
+Athens,Lisbon,09:20
+Athens,Lisbon,19:40
+Athens,Canberra,09:50
+Athens,Canberra,18:50
+Athens,Brasilia,09:00
+Athens,Brasilia,14:10
+Athens,Bangkok,08:10
+Athens,Bangkok,18:50
+Athens,Moscow,09:10
+Athens,Moscow,12:30
+Athens,Jakarta,05:10
+Athens,Jakarta,21:00
+Athens,Bogota,18:00
+Athens,Bogota,20:20

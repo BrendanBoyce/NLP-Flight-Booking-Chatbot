@@ -1,0 +1,5 @@
+{
+  "task_name": "book_flight",
+  "required_slots": ["departure_city", "arrival_city", "departure_date"],
+  "optional_slots": ["departure_time", "passengers"]
+}

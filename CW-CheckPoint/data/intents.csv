@@ -1,0 +1,24 @@
+IID,sentence,label
+I1,hello,small_talk
+I2,hi there,small_talk
+I3,how are you,small_talk
+I4,my name is,identity_set
+I5,what is my name,identity_get
+I5.1, what are,qa
+I6,what is,qa
+I7,how do i,qa
+I8,who is,qa
+I9,define,qa
+I10,goodbye,small_talk
+I11,what can you do,capabilities
+I12,what is your purpose,capabilities
+I13,help,capabilities
+I14,what do you do,capabilities
+I15,i want to book,booking
+I16,i want to fly,booking
+I17,book a flight,booking
+I18,flight booking,booking
+I19,can you book a flight for me,booking
+I20,i need plane tickets,booking
+
+
