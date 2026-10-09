@@ -138,14 +138,3 @@ python performance.py
 It reports booking-example retrieval, per-slot extraction, exact slot matches, and whether annotated routes and times exist in the timetable. Retrieval is evaluated against the same example file used to build its index, so its reported “Recall” is not a held-out estimate of generalization. Route/time figures describe dataset consistency rather than end-to-end booking success. Relative-date resolution also depends on the current date.
 
 The CLI booking example above and this diagnostic script ran successfully during documentation review using Python 3.12.14, NumPy 2.3.5, and scikit-learn 1.8.0 already installed in the review environment. The complete pinned dependency installation was not tested. There is no automated assertion-based test suite in the repository.
-
-## Limitations
-
-- No live airline integration, seat inventory, prices, payment processing, booking database, or persistent user profiles.
-- Intent recognition depends on a small example set and lexical similarity; unfamiliar phrasing can route incorrectly.
-- Question answering selects an existing dataset answer and has no answer-confidence rejection threshold.
-- Date parsing is limited, does not reject past dates, and can raise an exception for impossible dates such as `31/02/2026`.
-- City matching uses substrings; passenger and confirmation parsing also use simple rules and can misinterpret ambiguous input.
-- Retrieved examples can supply dates and times not explicitly requested by the user; confirmation is therefore important.
-- The default CLI uses the schema embedded in `booking.py`. The alternative JSON schema is not loaded automatically.
-- All indexes are built at startup. Data paths assume the documented working directory, and console input has no dedicated end-of-file recovery.
